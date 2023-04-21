@@ -1,0 +1,31 @@
+In this exercise, there were two types of coupons that we examined: 1) the 
+bar coupon, 2) the high-end restaurant coupon.
+The goal of this exercise was to understand what portion of the customers 
+are more likely to accept the coupons offered to them. We examined the 
+acceptance rate for each of the two types of coupon, diving deeper into 
+attributes that would make the driver more likely to accept the coupon. 
+Please note that in both cases, the acceptance rate is defined as total 
+number of drivers reached in the denominator, and the total number of 
+drivers who accepted the coupon in the numerator.
+
+Based on our analysis, followings are the attributes that make drivers 
+more likely to accept the two types of coupons that we studied. We 
+recommend focusing on the following types of customers next time that we 
+want to offer coupons in order to achieve higher acceptance rate:
+
+1. Bar Coupon:
+Factors that are directly correlated with customers who accept the bar 
+coupan are: 1)higher  income , 2)whether they don't  eat at cheap 
+restaurants often (which is correlated with income), 3) whether they have 
+a passenger in the car who is not a kid, 4) how often they go to bar.
+
+Factors that are not important are: surprisingly, age is not that 
+important as those who are under 30 and those who are over 25 have very 
+close acceptance rates
+
+2. High-End Restaurants Coupon:
+Based on all the criteria that was examined, customers who are not 
+divorced or widowed, are male, below thirty and go out at least once a 
+month are best candidates for this coupon. Applying these criteria 
+increases the accpetance rate from 44% to 51+%.
+
