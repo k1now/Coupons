@@ -29,3 +29,6 @@ divorced or widowed, are male, below thirty and go out at least once a
 month are best candidates for this coupon. Applying these criteria 
 increases the accpetance rate from 44% to 51+%.
 
+To see additional details about how the analysis was conducted, please see 
+the following github link to the jupyter notebook: 
+https://github.com/k1now/Coupons/blob/main/CouponAnalysis.ipynb
